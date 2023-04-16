@@ -4,7 +4,7 @@
 - 🔥 Desenvolvedor Jr.
 - 🔭 Atualmente estou trabalhando em i2GO.
 - 🌱 Estou aprendendo
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
           
 
 ##🛠&nbsp; Tecnologias e Ferramentas
