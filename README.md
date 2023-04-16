@@ -1,10 +1,13 @@
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinicius Altheman</h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Vinicius Altheman</h1>
 
 - 🔥 Desenvolvedor Jr.
 - 🔭 Atualmente estou trabalhando em i2GO.
+- 🌱 Estou aprendendo
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
 
-##🛠 &nbsp; Tecnologias e Ferramentas
+##🛠&nbsp; Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
