@@ -24,7 +24,7 @@
  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white">
 </div>     
- <br> 
+
  #### ✍️ Plataforma de estudo
  <div>
  	<img src="https://img.shields.io/badge/udemy-%23EC5252.svg?&style=for-the-badge&logo=udemy&logoColor=white">
