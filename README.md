@@ -2,22 +2,36 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius Altheman</h1>
 <!--Sobre mim-->     
 
+- 👨‍💻 Formado em Analise e Desenvilvimento de Sistemas.
 - 🔥 Desenvolvedor Web Jr.
 - 🔭 Atualmente estou trabalhando em i2GO.
 
 
-### 👨‍💻 Estou estudando 
+#### 📚 Estudando
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" heigth="50"/> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-
-### ⚙️ Ferramentas e tecnologias
+#### ⚙️ Ferramentas e tecnologias utilizadas
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" heigth="50" alt="Mysql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="50" height="50" alt="Filezilla" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="vsCode" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="50" height="50" alt="Composer"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="50" height="50" alt="Github" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" alt="Git" /> 
-
+<img src="https://img.shields.io/badge/filezilla-%23BF0000.svg?&style=for-the-badge&logo=filezilla&logoColor=white">
+ <img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white">
+ <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white">
 </div>     
  <br> 
+ 
+ #### ✍️ Plataforma de estudo
+ <div>
+ 	<img src="https://img.shields.io/badge/udemy-%23EC5252.svg?&style=for-the-badge&logo=udemy&logoColor=white">
+ </div>
+ <br>
+ 
 <div align="left">
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-altm&langs_count=8&theme=radical)](https://github.com/vinicius-altm/github-readme-stats)   
