@@ -1,4 +1,4 @@
-
+ <img align="right" height="150em" src="https://user-images.githubusercontent.com/123607826/232349207-bf76604f-0f8f-4cc9-b3f9-e66c7eaf6a19.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius Altheman</h1>
 <!--Sobre mim-->     
 
@@ -12,7 +12,7 @@
 </div>
 
 
-### ⚙️ Ferramentas e tecnologias utilizadas no meu dia
+### ⚙️ Ferramentas e tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" heigth="50" alt="Mysql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="50" height="50" alt="Filezilla" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="vsCode" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="50" height="50" alt="Composer"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="50" height="50" alt="Github" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50" alt="Git" /> 
 
