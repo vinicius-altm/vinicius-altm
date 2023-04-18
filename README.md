@@ -1,5 +1,5 @@
  <img align="right" height="150em" src="https://user-images.githubusercontent.com/123607826/232349207-bf76604f-0f8f-4cc9-b3f9-e66c7eaf6a19.png"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius Altheman</h1>
+<h1 align="left">Olá 👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius</h1>
 <!--Sobre mim-->     
 
 - 👨‍💻 Formado em Analise e Desenvilvimento de Sistemas.
