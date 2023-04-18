@@ -30,11 +30,7 @@
  	<img src="https://img.shields.io/badge/udemy-%23EC5252.svg?&style=for-the-badge&logo=udemy&logoColor=white">
  </div>
  <br>
-<div align="left">
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-altm&langs_count=8&theme=radical)](https://github.com/vinicius-altm/github-readme-stats)   
-      
-</div> 
+
 
           
           
