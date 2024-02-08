@@ -1,4 +1,6 @@
- <img align="right" height="150em" src="https://user-images.githubusercontent.com/123607826/232349207-bf76604f-0f8f-4cc9-b3f9-e66c7eaf6a19.png"/>
+ <!--<img align="right" height="150em" src="https://user-images.githubusercontent.com/123607826/232349207-bf76604f-0f8f-4cc9-b3f9-e66c7eaf6a19.png"/>-->
+<img align="right" height="150em"src"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFjdTBpOTg5amVuNDRyZGxmZmN0aW0wNnpwbDRyNWcwZHlnajV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+  
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Vinicius</h1>
 <!--Sobre mim-->     
 
